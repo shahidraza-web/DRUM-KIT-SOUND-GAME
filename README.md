@@ -1,2 +1,2 @@
 # DRUM-KIT-SOUND-GAME
-Smash the beats! A fun, responsive drum kit game made with HTML, CSS and JavaScript — tap keys or click to play.
+Interactive Drum Kit is a lightweight web game that turns your keyboard into a drum set. Built with HTML, CSS and JavaScript, it supports click and keypress controls, responsive visuals, and low-latency audio playback for a satisfying beat-making experience.
